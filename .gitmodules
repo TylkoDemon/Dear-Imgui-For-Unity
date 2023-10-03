@@ -1,0 +1,3 @@
+[submodule "Packages/dear-imgui-unity"]
+	path = Packages/dear-imgui-unity
+	url = https://github.com/TylkoDemon/dear-imgui-unity.git
