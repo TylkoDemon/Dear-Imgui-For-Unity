@@ -9,6 +9,25 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+[Pp]layerStorage/
+[Ss]ave/
+[Mm]ono/
+
+# Build results
+/[Dd]ebug/
+/[Dd]ebugPublic/
+/[Rr]elease/
+/[Rr]eleases/
+bld/
+/[Bb]in/
+/[Bb]in.meta
+/[Bb]in_shipping/
+/[Bb]in_shipping.meta
+/[Oo]bj/
+/[Ll]og/
+/_[Ll]ogs/
+/[Dd]eploy/
+/[Dd]eploy_shipping/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -25,6 +44,10 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+
+# Rider cache/options directory
+.idea/
 
 # Gradle cache directory
 .gradle/
@@ -70,3 +93,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# common
+serialized.json
+all_commands.md
+JEMLOGGER_FATAL.log
+username.txt
+imgui.ini
