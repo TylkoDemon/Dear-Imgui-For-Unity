@@ -23,7 +23,6 @@ public sealed class HelloDearImgui : MonoBehaviour
     
     private void OnImGUI()
     {
-        Debug.Log("Hello Dear ImGui");
         ImGui.ShowDemoWindow();
     }
 }
